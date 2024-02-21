@@ -36,11 +36,11 @@ Each day I strive to learn something new so I can show you it on here just how c
 
 <h3>Catch me out in the wild</h3>
 
-<a target="_blank" href="https://www.linkedin.com/in/matt-miller-86854aa9/">
+<a href="https://www.linkedin.com/in/matt-miller-86854aa9/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a target="_blank" href="https://leetcode.com/matchoomeelah/">
+<a href="https://leetcode.com/matchoomeelah/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 </a>
 

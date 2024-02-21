@@ -3,7 +3,7 @@
    <h3><em>🕶️ **Please put on your 3D-glasses now** 🕶️</em></h3>
 </div>
 
-<img src="glasses-gif.gif" height="230px" width="370px" />
+<img src="glasses-gif.gif" height="140px" width="220px" />
 
 <h3>The Me</h3>
 

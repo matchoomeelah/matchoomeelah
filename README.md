@@ -5,13 +5,18 @@
 
 <img src="glasses-gif.gif" height="250px" width="400px" />
 
+<h3>The Me</h3>
+
 I'm Matt and this is my Github page! (<em>technically best-viewed in 2D</em>)
 
-I've long dabbled in the world of tech, but have taken a deep dive into Software Engineering for the last 6 months as a student at App Academy.
+I've long dabbled in different areas of tech, but have taken a deep dive into Software Engineering for the last 6 months as a student at App Academy.
 
-Each day I put in the legwork so y'all can see just how cool the world is.
+The world is cool, I say we make some cool projects to make it cooler!
 
-<h3>Some of the tools I've used</h3>
+<h3>The Tools</h3>
+
+These are some of the many tools and technologies I've used in building my projects:
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,7 +39,21 @@ Each day I put in the legwork so y'all can see just how cool the world is.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-<h3>Catch me out in the wild</h3>
+<h3>The Soundtrack</h3>
+
+Some albums that have kept my fingers moving on the keyboard lately:
+
+<a href="https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa?si=NEemupfzSBqDAH7FBpYZ0Q"><img height="130px" width="130px" src="https://f4.bcbits.com/img/a1061896265_65" /></a>
+<a href="https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8?si=rfsJoQ-3RaC3-h_pI7xJbg"><img height="130px" width="130px" src="https://static.wikia.nocookie.net/kong/images/1/19/PlasticBeachDay.jpg/revision/latest?cb=20211124211707" /><a/>
+<a href="https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD?si=aiIizRNESxihKqp2wQk7uw"><img height="130px" width="130px" src="https://f4.bcbits.com/img/a1890146474_10.jpg" /></a>
+<a href="https://open.spotify.com/album/2ZV63aOqkSh0l49vmvjLOn?si=mgSLvOfgQ_2D3q3fSz4KDA"><img height="130px" width="130px" src="https://best-fit.transforms.svdcdn.com/production/albums/Tennis_-_Yours_Conditionally.jpeg?w=469&h=469&q=100&auto=format&fit=crop&dm=1643651849&s=d5dbd5b178fafe12cde420924ff58c11" /></a>
+
+
+
+<h3>The Wild</h3>
+
+Come catch me in the wild!
+
 
 <a href="https://www.linkedin.com/in/matt-miller-86854aa9/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -43,6 +62,8 @@ Each day I put in the legwork so y'all can see just how cool the world is.
 <a href="https://leetcode.com/matchoomeelah/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 </a>
+
+
 
 <!--
 **matchoomeelah/matchoomeelah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
    <h3><em>🕶️ **Please put on your 3D-glasses now** 🕶️</em></h3>
 </div>
 
-<img src="glasses-gif.gif" height="250px" width="400px" />
+<img src="glasses-gif.gif" height="230px" width="370px" />
 
 <h3>The Me</h3>
 
@@ -43,10 +43,10 @@ These are some of the many tools and technologies I've used in building my proje
 
 Some albums that have kept my fingers moving on the keyboard lately:
 
-<a href="https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa?si=NEemupfzSBqDAH7FBpYZ0Q"><img height="130px" width="130px" src="https://f4.bcbits.com/img/a1061896265_65" /></a>
-<a href="https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8?si=rfsJoQ-3RaC3-h_pI7xJbg"><img height="130px" width="130px" src="https://static.wikia.nocookie.net/kong/images/1/19/PlasticBeachDay.jpg/revision/latest?cb=20211124211707" /><a/>
-<a href="https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD?si=aiIizRNESxihKqp2wQk7uw"><img height="130px" width="130px" src="https://f4.bcbits.com/img/a1890146474_10.jpg" /></a>
-<a href="https://open.spotify.com/album/2ZV63aOqkSh0l49vmvjLOn?si=mgSLvOfgQ_2D3q3fSz4KDA"><img height="130px" width="130px" src="https://best-fit.transforms.svdcdn.com/production/albums/Tennis_-_Yours_Conditionally.jpeg?w=469&h=469&q=100&auto=format&fit=crop&dm=1643651849&s=d5dbd5b178fafe12cde420924ff58c11" /></a>
+<a href="https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa?si=NEemupfzSBqDAH7FBpYZ0Q"><img height="110px" width="110px" src="https://f4.bcbits.com/img/a1061896265_65" /></a>
+<a href="https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8?si=rfsJoQ-3RaC3-h_pI7xJbg"><img height="110px" width="110px" src="https://static.wikia.nocookie.net/kong/images/1/19/PlasticBeachDay.jpg/revision/latest?cb=20211124211707" /><a/>
+<a href="https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD?si=aiIizRNESxihKqp2wQk7uw"><img height="110px" width="110px" src="https://f4.bcbits.com/img/a1890146474_10.jpg" /></a>
+<a href="https://open.spotify.com/album/2ZV63aOqkSh0l49vmvjLOn?si=mgSLvOfgQ_2D3q3fSz4KDA"><img height="110px" width="110px" src="https://best-fit.transforms.svdcdn.com/production/albums/Tennis_-_Yours_Conditionally.jpeg?w=469&h=469&q=100&auto=format&fit=crop&dm=1643651849&s=d5dbd5b178fafe12cde420924ff58c11" /></a>
 
 
 

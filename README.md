@@ -14,7 +14,7 @@ I've long dabbled in the world of tech, but have taken a deep dive into Software
 
 Each day I strive to learn something new so I can show you it on here just how cool the world is.
 
-<h3>What I've used to buuild stuff</h3>
+<h3>What I've used to build stuff</h3>
 <!-- <p> -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <!-- </p> -->

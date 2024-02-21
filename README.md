@@ -3,7 +3,7 @@
    <h3><em>🕶️ **Please put on your 3D-glasses now** 🕶️</em></h3>
 </div>
 
-![](glasses-gif.gif)
+<img src="glasses-gif.gif" height="250px" width="400px" />
 
 I'm Matt and this is my Github page! (<em>technically best-viewed in 2D</em>)
 

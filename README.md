@@ -1,5 +1,5 @@
 <div>
-  <h2> 🙋🏼‍♂️ Hello, and welcome to the Matt Miller experience </h2>
+  <h1> 🙋🏼‍♂️ Hello, and welcome to the Matt Miller experience </h1>
    <h3><em>🕶️ **Please put on your 3D-glasses now** 🕶️</em></h3>
 </div>
 

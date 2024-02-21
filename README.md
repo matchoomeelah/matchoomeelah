@@ -9,7 +9,7 @@ I'm Matt and this is my Github page! (<em>technically best-viewed in 2D</em>)
 
 I've long dabbled in the world of tech, but have taken a deep dive into Software Engineering for the last 6 months as a student at App Academy.
 
-Each day I strive to learn something new so I can show you it on here just how cool the world is.
+Each day I put in the legwork so y'all can see just how cool the world is.
 
 <h3>Some of the tools I've used</h3>
 

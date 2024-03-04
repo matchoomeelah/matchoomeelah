@@ -9,7 +9,7 @@
 
 I'm Matt and this is my Github page! (<em>technically best-viewed in 2D</em>)
 
-I've long dabbled in different areas of tech, but have taken a deep dive into Software Engineering for the last 6 months as a student at App Academy.
+I've long dabbled in different areas of tech, but have taken a deep dive into Software Engineering as a student at App Academy.
 
 The world is cool, I say we make some cool projects to make it cooler!
 

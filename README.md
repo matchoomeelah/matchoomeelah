@@ -9,7 +9,7 @@
 
 I'm Matt and this is my Github page! (<em>technically best-viewed in 2D</em>)
 
-I've long dabbled in different areas of tech, recently taking a deep dive into Software Engineering as a student at App Academy.
+I've recently taken a deep dive into Software Engineering as a student at App Academy.
 
 The world is cool, I say we make some cool projects to make it cooler!
 
@@ -38,6 +38,8 @@ These are some of the many tools and technologies I've used in building my proje
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+<em>And currently learning TypeScript and Next.js!</em>
 
 <h3>The Soundtrack</h3>
 
